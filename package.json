@@ -2,6 +2,14 @@
   "name": "behappywith.me",
   "version": "0.1.0",
   "private": true,
+  "author":{
+    "name": "Yam GOMES",
+    "email": "yamgcunha@gmail.com"
+  },
+  "engines":{
+    "npm": "6.7.0",
+    "node": "11.10.0"
+  },
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
